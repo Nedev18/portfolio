@@ -9,5 +9,5 @@ Tarefas serão feitas no GitHub
 
 :package: Funcionalidade nova
 :up: Atualização
-:beatle: Correção de Bugs
-:checkred_flag: release
+:beetle: Correção de Bugs
+:checkered_flag: release
