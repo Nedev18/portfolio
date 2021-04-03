@@ -10,4 +10,4 @@ Tarefas serão feitas no GitHub
 :package: Funcionalidade nova
 :up: Atualização
 :beetle: Correção de Bugs
-:checkered_flag: release
+:checkered_flag: Release
